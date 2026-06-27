@@ -7,7 +7,7 @@
 
 #### Methodology
 
-I've gathered all publicly available voter turnout files (CE-068 and CE_068c) from Colorado counties that provide them (thanks to the elections offices of Broomfield County, Boulder County, Denver County, Adams County, Arapahoe County, Jefferson County, Douglas County, and Mesa County for making these files available). The above map will be updated daily with the most recent files from each county.
+I've gathered all publicly available voter turnout files (CE-068 and CE-068c) from Colorado counties that provide them (thanks to the elections offices of Broomfield County, Boulder County, Denver County, Adams County, Arapahoe County, Jefferson County, Douglas County, Larimer County, and Mesa County for making these files available). The above map will be updated daily with the most recent files from each county.
 
 Here is the methodology I used for assigning partisanship:
 
@@ -57,8 +57,8 @@ At this point, I think realistically that it's a 50/50 race. Without seeing stat
 
 Other races to watch include:
 
-- CO-01: 30-year incumbent Diana DeGette vs. left-wing, Bernie Sanders-endorsed challenger Melat Kiros. Kiros is currently the betting market favorite, and after the recent results in New York City, she may be able to build on that momentum.
+- CO-01: 30-year incumbent Diana DeGette vs. left-wing, Bernie Sanders-endorsed challenger Melat Kiros in a deep-blue Denver district. Kiros is currently the betting market favorite, and after the recent results in New York City, she may be able to build on that momentum.
 - US Senate: Progressive state senator Julie Gonzales challenging incumbent John Hickenlooper. Gonzales has a much bigger fundraising deficit than Kiros and needs to spread it statewide, putting her at a big disadvantage. However, some polls have shown her within striking distance if she can reach enough voters.
-- CO-08: Manny Rutinel and Shannon Bird battle for the chance to challenge Rep. Gabe Evans in Colorado's most purple congressional district.
+- CO-08: Manny Rutinel and Shannon Bird battle for the chance to challenge Rep. Gabe Evans in Colorado's most purple congressional district that includes Denver suburbs and Greeley.
 - Attorney General: Current Secretary of State Jena Griswold is the favorite here because of name recognition, but with 4 viable candidates anything could happen.
 - Republican Governor: Are the polls right about Victor Marx? I haven't seen ad presence of any Republicans here, oddly enough the only sign I've seen was for Scott Bottoms, who is a distant 3rd in the polls.
