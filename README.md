@@ -3,6 +3,8 @@
 ## 2026 Colorado Primary
 [2026 Primary Turnout Map](https://twbruce4.github.io/CO_2026_Primary_Turnout.html)
 
+[Turnout % by Precinct](https://twbruce4.github.io/CO_2026_Primary_Turnout_PCT.html)
+
 #### Methodology
 
 I've gathered all publicly available voter turnout files (CE-068 and CE_068c) from Colorado counties that provide them (thanks to the elections offices of Broomfield County, Boulder County, Denver County, Adams County, Arapahoe County, Jefferson County, Douglas County, and Mesa County for making these files available). The above map will be updated daily with the most recent files from each county.
