@@ -26,12 +26,13 @@ As far as forecasting, primary elections are much more difficult to forecast tha
 
 One thing that helps is that Colorado voter files contains voter year of birth. A [recent poll of the gubernatorial race](https://coloradosun.com/2026/06/25/phil-weiser-michael-bennet-poll-colorado-governors-race/) showed current Attorney General Phil Weiser slightly ahead of current Senator Michael Bennet in the gubernatorial race, with his strength among young voters having a big impact. Using the poll preferences by age group, we can estimate how Weiser is doing in the counties where I have data.
 
-| Age  | DEM | REP | UAF/Other | Weiser %[^1] | Bennet %[^1] |
+| Age  | DEM | REP | UAF/Other | Weiser¹ | Bennet¹ |
 |-------|-----|------------|---|------|--------|
 | 18-45 | 64,751  | 17,392   | 7,888 | 74.7%  |    25.3%    |
 | 45-64    | 69,322  | 36,444   |7,459 |  54.7%  |   45.3%   |
 | 65+ | 129,296   |  76,300    | 11,364   | 38.6% |  61.4%   |
-[^1]: Percentages of decided voters in the Public Policy Polling poll
+
+¹ Percentages of decided voters in the Public Policy Polling poll
 
 If we allocate UAF voters to DEM at the same ratio as the DEM/REP partisan ratio, that gives us this result:
 
