@@ -58,7 +58,7 @@ At this point, I think realistically that it's a 50/50 race. Without seeing stat
 Other races to watch include:
 
 - CO-01: 30-year incumbent Diana DeGette vs. left-wing, Bernie Sanders-endorsed challenger Melat Kiros. Kiros is currently the betting market favorite, and after the recent results in New York City, she may be able to build on that momentum.
-- US Senate: Julie Gonzales challenging incumbent John Hickenlooper. Gonzales has a much bigger fundraising deficit than Kiros and needs to spread it statewide, putting her at a big disadvantage. However, some polls have shown her within striking distance if she can reach enough voters.
+- US Senate: Progressive state senator Julie Gonzales challenging incumbent John Hickenlooper. Gonzales has a much bigger fundraising deficit than Kiros and needs to spread it statewide, putting her at a big disadvantage. However, some polls have shown her within striking distance if she can reach enough voters.
 - CO-08: Manny Rutinel and Shannon Bird battle for the chance to challenge Rep. Gabe Evans in Colorado's most purple congressional district.
 - Attorney General: Current Secretary of State Jena Griswold is the favorite here because of name recognition, but with 4 viable candidates anything could happen.
 - Republican Governor: Are the polls right about Victor Marx? I haven't seen ad presence of any Republicans here, oddly enough the only sign I've seen was for Scott Bottoms, who is a distant 3rd in the polls.
