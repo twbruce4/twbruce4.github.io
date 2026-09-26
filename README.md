@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Thomas' Election Analysis Page
+permalink: /
 ---
 
 I make maps of election results and forecasts in Python.
