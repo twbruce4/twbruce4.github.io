@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2026 Colorado Primary
+permalink: /articles/CO_2026_Primary/
 ---
 
 [2026 Primary Turnout Map](https://twbruce4.github.io/CO_2026_Primary_Turnout.html)
