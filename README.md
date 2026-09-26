@@ -24,3 +24,5 @@ I make maps of election results and forecasts in Python.
 ## North Carolina
 ### 2026 General Election
 [2026 General Election Forecast](https://twbruce4.github.io/NC_2026_General_Absentee_Results.html)
+
+[2026 General Election Results by Congressional District](https://twbruce4.github.io/NC_2026_General_Absentee_Results_Congress.html)
