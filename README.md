@@ -30,4 +30,4 @@ I make maps of election results and forecasts in Python.
 
 ## Maine
 ### 2026 General Election
-[2026 General Election Forecast by State House district](https://twbruce4.github.io/NC_2026_General_Absentee_Results.html)
+[2026 General Election Forecast by State House district](https://twbruce4.github.io/ME_2026_General_Absentee_Results.html)
