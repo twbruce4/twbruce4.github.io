@@ -25,9 +25,11 @@ I make maps of election results and forecasts in Python.
 ### 2026 General Election
 [2026 General Election Forecast](https://twbruce4.github.io/NC_2026_General_Absentee_Results.html)
 
-[2026 General Election Results by Congressional District](https://twbruce4.github.io/NC_2026_General_Absentee_Results_Congress.html)
+[2026 General Election Forecast by Congressional District](https://twbruce4.github.io/NC_2026_General_Absentee_Results_Congress.html)
 
 
 ## Maine
 ### 2026 General Election
 [2026 General Election Forecast by State House district](https://twbruce4.github.io/ME_2026_General_Absentee_Results.html)
+
+[2026 General Election Forecast by Congressional District](https://twbruce4.github.io/ME_2026_General_Absentee_Results_Congress.html)
