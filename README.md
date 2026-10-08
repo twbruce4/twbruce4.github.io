@@ -23,9 +23,11 @@ I make maps of election results and forecasts in Python.
 
 [CO-04 Results](https://twbruce4.github.io/CO-04_general_election_forecast.html)
 
+[CO-08 Results](https://twbruce4.github.io/CO-08_general_election_forecast.html)
+
 ## Texas
 ### 2026 Primary Election
-[2026 Primary Turnout by Precinct](https://twbruce4.github.io/TX_2026_Primary_Turnout.html)
+[2026 Primary Turnout by Precinct](https://twbruce4.github.io/TX_2026_Primary_Turnout_v3.html)
 
 [2026 Primary Turnout by County](https://twbruce4.github.io/TX_2026_Primary_Turnout_County.html)
 
