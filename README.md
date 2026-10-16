@@ -31,6 +31,12 @@ I make maps of election results and forecasts in Python.
 
 [2026 Primary Turnout by County](https://twbruce4.github.io/TX_2026_Primary_Turnout_County.html)
 
+### 2026 General Election
+[2026 General Turnout by Precinct](https://twbruce4.github.io/TX_2026_General_Early_Results.html)
+
+[2026 General Turnout by County](https://twbruce4.github.io/TX_2026_General_Early_Results_County.html)
+
+[2026 General Turnout by Congressional District](https://twbruce4.github.io/TX_2026_General_Early_Results_Congress.html)
 
 ## North Carolina
 ### 2026 General Election
