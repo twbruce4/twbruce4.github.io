@@ -45,7 +45,7 @@ I make maps of election results and forecasts in Python.
 
 [2026 General Election Forecast by Congressional District](https://twbruce4.github.io/ME_2026_General_Absentee_Results_Congress.html)
 
-# Georgia
+## Georgia
 ### 2026 General Election
 [2026 General Election Forecast by County](https://twbruce4.github.io/GA_2026_General_Absentee_Results.html)
 
